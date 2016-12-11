@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matante JeeZ</title>
-    <link>https://jsjeannotte.github.io/index.xml</link>
+    <link>https://matantejeez.github.io/index.xml</link>
     <description>Recent content on Matante JeeZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     <lastBuildDate>Sun, 04 Dec 2016 15:38:05 -0800</lastBuildDate>
-    <atom:link href="https://jsjeannotte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matantejeez.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
-      <link>https://jsjeannotte.github.io/post/welcome/</link>
+      <link>https://matantejeez.github.io/post/welcome/</link>
       <pubDate>Sun, 04 Dec 2016 15:38:05 -0800</pubDate>
       
-      <guid>https://jsjeannotte.github.io/post/welcome/</guid>
+      <guid>https://matantejeez.github.io/post/welcome/</guid>
       <description></description>
     </item>
     
