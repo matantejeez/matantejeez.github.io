@@ -1,0 +1,8 @@
+baseurl = "https://jsjeannotte.github.io/"
+title = "Matante JeeZ"
+languageCode = "fr-ca"
+theme = "hugo_theme_robust"
+
+[taxonomies]
+tag = "tags"
+category = "catégories"
